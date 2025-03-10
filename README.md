@@ -24,9 +24,7 @@ Collect power-ups for additional challenges or bonuses.<br>
 
 <h5>Tech Stack:</h5>
 Language: Python<br>
-
 Framework: Tkinter for GUI development<br>
-
 Random Module: For food and power-up placement logic<br>
 
 <h5>Future Enhancements:</h5>
