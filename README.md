@@ -23,3 +23,6 @@ Random Module:  For food and power-up placement logic<br>
 <h3>Future Enhancements:</h3>
 Additional power-up types with unique effects.<br>
 Support for customizable themes and controls.<br>
+## 🎮 Snake Game Demo  
+
+[![Watch the demo]
